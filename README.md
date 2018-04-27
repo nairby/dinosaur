@@ -1,7 +1,7 @@
 # dinosaur
 Missing the Windows XP Dinosaur mouse pointers?
 
-Bring them back to life with this ...
+Bring them back to life in Windows 10 with this ...
 
 ----
 
