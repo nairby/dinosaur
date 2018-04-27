@@ -1,5 +1,7 @@
 # dinosaur
-Back to Windows XP - Dinosaur mouse pointers!
+Missing the Windows XP Dinosaur mouse pointers?
+
+Bring them back to life with this ...
 
 ----
 
