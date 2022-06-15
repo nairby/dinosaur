@@ -1,13 +1,17 @@
 # dinosaur
 Missing the Windows XP Dinosaur mouse pointers?
 
-Bring them back to life in Windows 10 (or 11) with this ...
+Bring them back to life in Windows 10/11 with this ...
 
 ----
 
-Copy these animation files to C:\Windows\Cursors
+From this repository, download these two animation files:
 
-[file icons](images/file_icons.png)
+![file icons](images/file_icons.png)
+
+Save them to C:\Windows\Cursors
+
+Then open:
 
 Settings -> Mouse -> Additional mouse options
 
